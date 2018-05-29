@@ -7,6 +7,6 @@ Vue Webpack 4 configuration
 ##running in development mode
 2. npm run dev
 
-## runnin in production mode
-3.a npm run buil 
-3.b Need node\live server to host wwwroot\index.html
+## running in production mode
+3. npm run build 
+3. Need node\live server to host wwwroot\index.html
